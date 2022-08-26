@@ -22,6 +22,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/account-settings": "file:./screens/account-settings/",
+    "@screens/login": "file:./screens/login/",
     "@screens/settings": "file:./screens/settings/",
     "axios": "^0.21.1",
     "react": "17.0.1",

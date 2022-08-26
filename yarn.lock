@@ -1038,7 +1038,7 @@
   dependencies:
     react-native-render-html "^5.1.0"
 
-"@modules/social-login@file:./modules/social-login/":
+"@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
     "@invertase/react-native-apple-authentication" "^2.1.0"
@@ -1272,6 +1272,9 @@
   version "1.0.0"
 
 "@screens/account-settings@file:./screens/account-settings":
+  version "1.0.0"
+
+"@screens/login@file:./screens/login/":
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
