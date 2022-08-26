@@ -1236,7 +1236,10 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
-"@screens/account-settings@file:./screens/account-settings/":
+"@screens/account-settings@file:./screens/account-settings":
+  version "1.0.0"
+
+"@screens/settings@file:./screens/settings/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
