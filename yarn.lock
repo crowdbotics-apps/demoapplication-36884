@@ -1268,13 +1268,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/about-the-app@file:./screens/about-the-app":
-  version "1.0.0"
-
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
-"@screens/login@file:./screens/login/":
+"@screens/login@file:./screens/login":
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
