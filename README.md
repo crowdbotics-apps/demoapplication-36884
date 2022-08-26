@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-account-settings](screens/account-settings)
 - [screen-settings](screens/settings)
 - [react-native-app-menu](modules/app-menu)
+- [privacy-policy]()
 
 # Getting started: Frontend
 
