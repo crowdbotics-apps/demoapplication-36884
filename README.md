@@ -60,7 +60,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [privacy-policy]()
 - [react-native-onboarding](modules/onboarding)
-- [react-native-social-login](modules/social-login)
 - [screen-add-payment-method](screens/add-payment-method)
 - [screen-about-the-app](screens/about-the-app)
 
