@@ -21,7 +21,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
-    "@screens/settings": "file:./screens/settings/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

@@ -1271,9 +1271,6 @@
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
-"@screens/settings@file:./screens/settings":
-  version "1.0.0"
-
 "@sideway/address@^4.1.3":
   version "4.1.4"
   resolved "https://registry.yarnpkg.com/@sideway/address/-/address-4.1.4.tgz#03dccebc6ea47fdc226f7d3d1ad512955d4783f0"
