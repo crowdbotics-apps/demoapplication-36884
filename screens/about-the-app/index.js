@@ -3,7 +3,7 @@ import { Text, StyleSheet, View } from "react-native";
 
 const AboutTheAppScreen = params => {
   return <View style={styles.container}>
-      <Text style={styles.headingTxt}>About the App Screen</Text>
+      <Text style={styles.headingTxt}>Ideas to code in minutes.</Text>
     </View>;
 };
 
@@ -17,7 +17,13 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: "bold",
     padding: 2,
-    marginVertical: 12
+    marginVertical: 12,
+    position: "absolute",
+    left: 4,
+    top: 301,
+    textAlign: "center",
+    width: 318,
+    height: 36
   }
 });
 export default AboutTheAppScreen;
